@@ -1,0 +1,23 @@
+{
+  "name": "thecodinginterviewbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCrespo/coding-interview-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielCrespo/coding-interview-bootcamp/issues"
+  },
+  "homepage": "https://github.com/GabrielCrespo/coding-interview-bootcamp#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
